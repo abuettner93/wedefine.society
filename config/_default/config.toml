@@ -1,0 +1,4 @@
+theme = "blowfish"
+baseURL = "https://wedefinesociety.com/"
+languageCode = "en"
+enableRobotsTXT	= "true"

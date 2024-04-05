@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "WeDefine.Society"
+
+[params]
+displayName = "EN"
+isoCode = "en-US"
+rtl = false
+dateFormat = "2 January 2006"
+#logo = "img/wedefine_logo.jpg"
+#secondaryLogo = "img/wedefine_logo.jpg"
+description = "Offical website of WeDefine.Society - Birmgingham, AL"
+copyright = "&copy; { year }  WeDefine.Society"
+
+[author]
+name = " "
+image = "img/wedefine_logo.jpg" #TODO: update this logo with a higher res version
+headline = "We're only human"
+bio = "A little bit about you"
+links = [
+    { soundcloud = "https://soundcloud.com/username" },
+    { instagram = "https://soundcloud.com/username" },
+    { email = "mailto:hello@your_domain.com" },
+    { facebook = "https://facebook.com/username" },
+    { snapchat = "https://snapchat.com/add/username" },
+    { tiktok = "https://tiktok.com/@username" },
+    { x-twitter = "https://twitter.com/username" },
+]

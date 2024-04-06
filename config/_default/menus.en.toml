@@ -14,11 +14,12 @@
 [[main]]
   name = "About Us"
   weight = 10
+  pageRef = "about"
 
 
 [[main]]
   name = "Events"
-  pageRef = "posts"
+  pageRef = "events"
   weight = 20
 
 
